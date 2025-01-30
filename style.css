@@ -8,6 +8,8 @@ body {
   background-color: #eae2b7;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
+  width: 600px;
+  margin:auto;
 }
 
 header {
@@ -41,7 +43,6 @@ article div {
 
 p {
   line-height: 1.5;
-  text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
