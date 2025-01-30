@@ -41,6 +41,7 @@ article div {
 
 p {
   line-height: 1.5;
+  text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
@@ -71,7 +72,4 @@ header, footer {
   border-radius: 100px;
   border: 2px solid #003049;
 }
-#about, #contact {
-  text-align: center;
-  margin: 0 auto;
-}
+
